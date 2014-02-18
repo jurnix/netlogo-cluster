@@ -30,6 +30,8 @@ In order to install Netlogo-cluster you need to follow those commands:
 ./install.sh
 ```
 
+To delete those downloaded files use **-clean**.
+
 Create a new project
 --------------
 
