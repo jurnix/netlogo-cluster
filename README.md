@@ -7,6 +7,7 @@ Netlogo-cluster is a tool to speed up the launch of big [Netlogo] [netlogo] expe
  - An experiment ranging step values with 1 or multiple variables with multiple jobs (multiple cores)
  - Multiple experiments combining both modes
 
+This tool basically exploits the independance of each simulation to launch a lot of jobs at the same time. This is interesting for those experiments that require a lot of simulations. Be aware that it will not be useful when a single simulation is extremely complex so computational time becomes huge.
 
 
 Introduction
