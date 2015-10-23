@@ -175,7 +175,7 @@ Contact
 ---------
 For any question, bug, ... do not heasitate to contact with us:
 
-* albert.jornet@ic3.cat
+* jurnix@gmail.com
 
 
 [netlogo]:http://ccl.northwestern.edu/netlogo/
